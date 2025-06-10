@@ -28,8 +28,8 @@ This project is a real-time chat application that integrates a locally hosted La
 
 1.  **Clone the Repository** (if you haven't already):
     ```bash
-    git clone <your-repository-url>
-    cd <project-directory-name>
+    git clone https://github.com/Saiii05/dockerized_chat_application.git
+    cd dockerized_chat_application
     ```
 
 2.  **Build and Start the Services**:
